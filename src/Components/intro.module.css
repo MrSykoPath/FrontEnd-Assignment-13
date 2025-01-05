@@ -1,0 +1,54 @@
+.main{
+    background-color: #1ABC9C;
+    min-height: 60vh;
+}
+
+.montserrat{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.bigfont{
+    font-size: 4rem;
+}
+
+.icon::before{
+    content: "";
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    position: relative;
+    transform: translateY(-40%);
+}
+
+.icon::after{
+    content: "";
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    position: relative;
+    transform: translateY(-40%);
+}
+
+.icon-2C3E50::before{
+    content: "";
+    background-color: #2C3E50;
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    position: relative;
+    transform: translateY(-40%);
+}
+
+.icon-2C3E50::after{
+    content: "";
+    background-color: #2C3E50;
+    width: 100px;
+    height: 5px;
+    display: inline-block;
+    position: relative;
+    transform: translateY(-40%);
+}

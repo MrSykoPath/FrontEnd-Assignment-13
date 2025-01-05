@@ -1,0 +1,25 @@
+.color-2C3E50{
+    background-color: #2C3E50 !important;
+}
+
+.color-2C3E50-2{
+    color: #2C3E50 !important;
+}
+
+.montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.bg-1ABC9C{
+    background-color: #1ABC9C !important;
+}
+
+.fade{
+    transition: color 0.5s !important;
+}
+
+.fade:hover{
+    color: #1ABC9C !important;
+}
